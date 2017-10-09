@@ -1,1 +1,1 @@
-# Newton Polinomial Interpolation
+# Newton Polynomial Interpolation
