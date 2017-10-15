@@ -366,7 +366,7 @@ public class principal extends javax.swing.JFrame {
         x8.setText("0");
         f8.setText("0");
 
-        busca.setText("95");
+        busca.setText("105");
 
         SliderNum.setValue(3);
     }//GEN-LAST:event_ButtonEx4ActionPerformed
@@ -389,7 +389,7 @@ public class principal extends javax.swing.JFrame {
         x8.setText("0");
         f8.setText("0");
 
-        busca.setText("95");
+        busca.setText("130");
 
         SliderNum.setValue(3);
     }//GEN-LAST:event_ButtonEx3bActionPerformed
@@ -412,7 +412,7 @@ public class principal extends javax.swing.JFrame {
         x8.setText("0");
         f8.setText("0");
 
-        busca.setText("95");
+        busca.setText("130");
 
         SliderNum.setValue(2);
     }//GEN-LAST:event_ButtonEx3ActionPerformed
@@ -435,7 +435,7 @@ public class principal extends javax.swing.JFrame {
         x8.setText("4000");
         f8.setText("23.52");
 
-        busca.setText("1730");
+        busca.setText("3200");
 
         SliderNum.setValue(8);
     }//GEN-LAST:event_ButtonEx2ActionPerformed
@@ -445,7 +445,7 @@ public class principal extends javax.swing.JFrame {
     }//GEN-LAST:event_SliderNumStateChanged
 
     private void ButtonEx4bActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ButtonEx4bActionPerformed
-                x1.setText("55");
+        x1.setText("55");
         f1.setText("14.08");
         x2.setText("70");
         f2.setText("13.56");
@@ -462,7 +462,7 @@ public class principal extends javax.swing.JFrame {
         x8.setText("0");
         f8.setText("0");
 
-        busca.setText("80");
+        busca.setText("105");
 
         SliderNum.setValue(4);
     }//GEN-LAST:event_ButtonEx4bActionPerformed
