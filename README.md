@@ -1,1 +1,1 @@
-# Lagrange
+# Newton Polynomial Interpolation
