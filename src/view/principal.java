@@ -349,12 +349,12 @@ public class principal extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton1ActionPerformed
 
     private void ButtonEx4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ButtonEx4ActionPerformed
-        x1.setText("70");
-        f1.setText("13.56");
-        x2.setText("85");
-        f2.setText("13.28");
-        x3.setText("100");
-        f3.setText("12.27");
+        x1.setText("85");
+        f1.setText("13.28");
+        x2.setText("100");
+        f2.setText("12.27");
+        x3.setText("115");
+        f3.setText("11.3");
         x4.setText("0");
         f4.setText("0");
         x5.setText("0");
@@ -372,12 +372,12 @@ public class principal extends javax.swing.JFrame {
     }//GEN-LAST:event_ButtonEx4ActionPerformed
 
     private void ButtonEx3bActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ButtonEx3bActionPerformed
-        x1.setText("80");
-        f1.setText("95");
-        x2.setText("100");
-        f2.setText("112");
-        x3.setText("120");
-        f3.setText("138");
+        x1.setText("120");
+        f1.setText("138");
+        x2.setText("140");
+        f2.setText("151");
+        x3.setText("160");
+        f3.setText("170");
         x4.setText("0");
         f4.setText("0");
         x5.setText("0");
@@ -395,10 +395,10 @@ public class principal extends javax.swing.JFrame {
     }//GEN-LAST:event_ButtonEx3bActionPerformed
 
     private void ButtonEx3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ButtonEx3ActionPerformed
-        x1.setText("80");
-        f1.setText("95");
-        x2.setText("100");
-        f2.setText("112");
+        x1.setText("120");
+        f1.setText("138");
+        x2.setText("140");
+        f2.setText("151");
         x3.setText("0");
         f3.setText("0");
         x4.setText("0");
@@ -445,14 +445,14 @@ public class principal extends javax.swing.JFrame {
     }//GEN-LAST:event_SliderNumStateChanged
 
     private void ButtonEx4bActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_ButtonEx4bActionPerformed
-        x1.setText("55");
-        f1.setText("14.08");
-        x2.setText("70");
-        f2.setText("13.56");
-        x3.setText("85");
-        f3.setText("13.28");
-        x4.setText("100");
-        f4.setText("12.27");
+            x1.setText("85");
+        f1.setText("13.28");
+        x2.setText("100");
+        f2.setText("12.27");
+        x3.setText("115");
+        f3.setText("11.3");
+        x4.setText("130");
+        f4.setText("10.4");
         x5.setText("0");
         f5.setText("0");
         x6.setText("0");
